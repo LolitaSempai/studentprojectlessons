@@ -7,9 +7,8 @@ document.getElementById("send").addEventListener("click" , item =>{
         if(sendWord === element){
         console.log(element);
         
-        } else{
-            alert('Not found');
-        }
+        } 
+        
     });
 });
     
